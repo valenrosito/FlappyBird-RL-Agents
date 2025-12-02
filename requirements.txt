@@ -7,3 +7,4 @@ Pillow==11.2.1
 pygame==2.6.1
 pandas==2.2.1
 matplotlib==3.8.0
+tensorflow==2.20.0

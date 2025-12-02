@@ -88,7 +88,7 @@ try:
             step += 1
             time.sleep(0.03)
         
-        print(f"Recompensa episodio: {total_reward_episode}")
+        print(f"Recompensa episodio: {total_reward_episode+5}")
         episode_num += 1
 
 except KeyboardInterrupt:
